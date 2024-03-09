@@ -27,6 +27,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="clipboard.cpp" />
+    <ClCompile Include="image_auto_event.cpp" />
     <ClCompile Include="keyboard_event.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="mouse_auto_event.cpp" />

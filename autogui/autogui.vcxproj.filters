@@ -44,5 +44,8 @@
     <ClCompile Include="mouse_auto_event.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="image_auto_event.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
